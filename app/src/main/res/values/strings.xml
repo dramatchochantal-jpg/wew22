@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EduGate</string>
+    <string name="student_dashboard">Student Dashboard</string>
+    <string name="welcome_student">Welcome, Student!</string>
+    <string name="enrolled_subjects">Enrolled Subjects</string>
+    <string name="pending_tasks">Pending Tasks</string>
+    <string name="avg_grade">Avg Grade</string>
+    <string name="balance_due">Balance Due</string>
+    <string name="upcoming_class">Upcoming Class</string>
+    <string name="mobile_app_dev">Mobile App Development</string>
+    <string name="room_info">Room 405 | 1:30 PM - 3:00 PM</string>
+    <string name="recent_announcements">Recent Announcements</string>
+    <string name="maintenance_notice">System Maintenance Notice</string>
+    <string name="maintenance_desc">The EduGate portal will be offline on Sunday from 2 AM to 4 AM.</string>
+</resources>
